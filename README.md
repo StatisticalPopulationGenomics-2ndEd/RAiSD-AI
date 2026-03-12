@@ -1,4 +1,4 @@
-# RAiSD-AI
+# RAiSD-AI Guide
 
 This repository provides scripts to install and test RAiSD-AI for CNN-based scans for selective sweeps.
 
